@@ -1,3 +1,3 @@
-# web-server
+# Aggregator
 
-Creating a aweb server in Go
+Creating a web server that aggregates content from RSS feeds.
