@@ -1,3 +1,3 @@
-# Aggregator
+# rss-agg
 
-Creating a web server that aggregates content from RSS feeds.
+A web server that aggregates content from RSS feeds.
